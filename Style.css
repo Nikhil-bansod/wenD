@@ -1,0 +1,68 @@
+h2{
+    font-family: 'arial';
+    color: rgba(31, 46, 95, 0.9);
+    display: inline;
+    margin-right: 70%;
+    }
+hr{
+    border-color: rgba(223, 220, 220, 0.753);  
+}
+body{
+   
+    background-image: url("imag.png");
+  
+}
+h1 {
+
+    
+    text-align: left;
+    line-height: 0px;
+    font-size: 3em;
+    font-family: 'arial';
+    margin: 80;
+    padding: 0;
+    
+  } 
+  .styled {
+    margin-left: 80px;
+    border: 10;
+    line-height: 2;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: left;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgb(197, 37, 37);
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(214, 135, 135, 0.6),
+                inset -2px -2px 3px srgba(100, 63, 63, 0.6);
+}
+
+.styled:hover {
+    background-color: rgb(224, 197, 201);
+}
+
+.styled:active {
+    box-shadow: inset -2px -2px 3px rgba(192, 65, 65, 0.6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+.styl {
+    
+    background-color: rgb(88, 197, 37);
+}
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 15px;
+    cursor: pointer;
+    display: inline-block;
+  }
+  .btn:hover {background: #eee;}
+  
+  .Developers {color: rgb(18, 31, 90);}
+  
